@@ -47,6 +47,12 @@ Increase or decrease a value by one:
 
 ### Output:
 
+1. Arithmetic operations
+
+   
+![image](https://github.com/user-attachments/assets/a80b0a17-43ec-47c2-a162-7454800b9b43)
+
+
 1. Comparison operator
 
    
