@@ -3,7 +3,7 @@
 //comparison operator 
 #include<iostream>
 using namespace std;
-/**int main()
+int main()
 {
     int a,b;
     cout<<"Enter value of a: ";
@@ -19,11 +19,11 @@ using namespace std;
     cout<<"a!=b: "<<(a!=b)<<endl;
     return 0;
     
-}**/
+}
 
 
 //for getting output as true and false
-/**int main()
+int main()
 {
     int a,b;
     cout<<"Enter value of a: ";
@@ -40,10 +40,10 @@ using namespace std;
     cout<<"a!=b: "<<(a!=b)<<endl;
     return 0;
 
-}*/
+}
 
 //logical operators
-/**int main()
+int main()
 {
     bool A=true,b=false;
     cout<<boolalpha;
@@ -51,7 +51,7 @@ using namespace std;
     cout<<"a||b: "<<(A||b)<<endl;
     return 0;
 
-}*/
+}
 
 // logical operators
 int main()
