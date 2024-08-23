@@ -46,13 +46,23 @@ Increase or decrease a value by one:
 2. -- (Decrement): --a or a--
 
 ### Output:
+
+1. Comparison operator
+
+   
 ![Screenshot 2024-08-12 072517](https://github.com/user-attachments/assets/6641ba2e-0ec2-457b-b879-65d8caed5418)
+
+2. Comparison operator with true and false 
 
 
 ![Screenshot 2024-08-12 072455](https://github.com/user-attachments/assets/14d335db-822e-416f-86c1-49089b9cc27f)
 
+3. Logical operator 
+
 
 ![Screenshot 2024-08-12 072429](https://github.com/user-attachments/assets/5778c5b9-92ef-44ad-9107-890ff2dddff1)
+
+4. Logical operator with true and false 
 
 
 ![Screenshot 2024-08-12 072400](https://github.com/user-attachments/assets/03f9554d-2ad4-4018-b9e5-dbb88c3e48ad)
